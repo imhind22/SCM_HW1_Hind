@@ -1,0 +1,1 @@
+Configuration management ensures consistency across systems, improving reliability and deployment efficiency.
